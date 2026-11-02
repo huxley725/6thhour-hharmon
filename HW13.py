@@ -1,4 +1,9 @@
-#Name:Huxley Harmon
+#Name:Huxley Harmon")
+
+if temp>20:
+    print("it is not")
+else:
+    print("it is ok"
 #Class: 6th Hour
 #Assignment: HW13
 
@@ -14,12 +19,6 @@ temp=random.randint(1,10)
 #print(its mild")
 #if the temp is less than 10
 #print("its cold")
-#when done print("thank you")
-
-if temp>20:
-    print("it is not")
-else:
-    print("it is ok")
-
     print("thank you")
 
+#when done print("thank you")
